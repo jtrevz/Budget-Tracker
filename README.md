@@ -6,7 +6,8 @@ This application helps users track their budget. It allows for each client to ke
 
 <br>
 
-![Budget Tracker]()
+![Budget Tracker](https://user-images.githubusercontent.com/78758382/118586267-101cd300-b760-11eb-886d-7b62a7b22556.png)
+
 
 ## Table of Contents:
   * [Transactions](#search)
@@ -17,7 +18,8 @@ This application helps users track their budget. It allows for each client to ke
 
 ### Transations
 
-![Transactions]()
+![Transactions](https://user-images.githubusercontent.com/78758382/118586295-1a3ed180-b760-11eb-95cf-696bf0f88d78.png)
+
 
 Clients can keep track of each transaction they have, whther its money they receive or they have spent. A chart is then populated for easy visualization of the budget transactions.
 
